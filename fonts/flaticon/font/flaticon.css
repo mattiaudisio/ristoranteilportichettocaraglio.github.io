@@ -23,7 +23,7 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
   font-family: Flaticon;
         font-size: 20px;
 font-style: normal;
@@ -33,3 +33,4 @@ margin-left: 20px;
 .flaticon-meeting:before { content: "\f100"; }
 .flaticon-tray:before { content: "\f101"; }
 .flaticon-cake:before { content: "\f102"; }
+.flaticon-watch::before { content: "\f017"}
